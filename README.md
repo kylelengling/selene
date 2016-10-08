@@ -1,4 +1,2 @@
-# www-kylelengling
-Personal website development. 
-
-Simple single page portfolio.
+# selene
+single page marketing site 
